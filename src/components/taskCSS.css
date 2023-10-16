@@ -1,0 +1,12 @@
+.cardHolder{
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+}
+.pTask{
+    color: white;
+    background-color: #218204;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
